@@ -1,5 +1,5 @@
 # «Путешествие по России» - проектная работа для [Яндекс.Практикум](https://practicum.yandex.ru/)
-![Header](https://github.com/UshakovDmitry/russian-travel-nice/blob/main/images/fifi.gif)
+![Header](https://github.com/UshakovDmitry/russian-travel-nice/blob/main/images/fifi_fifif.gif)
 ## О проекте
 Одностраничный сайт о путешествиях по России для [Яндекс.Практикум](https://practicum.yandex.ru/) рассказывает о различных направлениях России, куда стоит отправиться, содержит ссылки на полезные ресурсы с дополнительной информацией о Карелии, озере Байкал, АлтаеБ Кольском полуострове и не только.
 
