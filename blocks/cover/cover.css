@@ -1,0 +1,16 @@
+/* 1280 */
+.cover {
+  margin: 0 auto;
+  padding: 0;
+  width: calc(100% - 2*48px);
+  display: flex;
+  flex-direction: column;
+}
+
+/* 1024 */
+@media screen and (max-width: 1024px) {
+  .cover {
+    width: 100%;
+  }
+}
+
